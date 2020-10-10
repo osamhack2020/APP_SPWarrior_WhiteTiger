@@ -1,1 +1,2 @@
-# WEB_SPWarrior_WhiteTiger
+# 특급전사 백과사전
+## 배코
